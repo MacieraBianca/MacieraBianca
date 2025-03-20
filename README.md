@@ -16,6 +16,7 @@
   <img align="center" alt="Bianca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bianca-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
+  <img align="right" alt="gif-Bianca" height="150" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1351336697735938150/1352417713510809660/IMG_0774.gif?ex=67ddf0a5&is=67dc9f25&hm=15675bc2e4a6478db12e64f81211639d9525bb804d3dbeff70fcbf4ed40fe24b&">
 </div>
 
 ##
