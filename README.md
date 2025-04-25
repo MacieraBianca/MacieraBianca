@@ -2,6 +2,7 @@
 - 🌱 Eu estou estudando análise e desenvolvimento de sistemas
 - 📫 comtate-me pelo email: biancamacieira16@gmail.com
 - 😄 Pronouns: ela/dela
+- 📂 Meu portfólio: https://macierabianca.github.io/Portifolio/index.html 
 
   <div align="center">
   <a href="https://github.com/MacieraBianca">
