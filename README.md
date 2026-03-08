@@ -19,7 +19,7 @@
   <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bianca-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Bianca-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="gif-Bianca" height="150" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1351336697735938150/1352417713510809660/IMG_0774.gif?ex=69ae00a5&is=69acaf25&hm=0bca856dc6fcc21bd234a226b5afba8687265d828231de44a78e0bcc9336470a">
+  <img align="right" alt="gif-Bianca" height="130" width="130" style="border-radius: 50px;" src="https://cdn.discordapp.com/attachments/1351336697735938150/1352417713510809660/IMG_0774.gif?ex=69ae00a5&is=69acaf25&hm=0bca856dc6fcc21bd234a226b5afba8687265d828231de44a78e0bcc9336470a">
 </div>
 
 ##
