@@ -1,6 +1,6 @@
 ## Olá eu sou a Bianca Macieira 
 - 🌱 Eu sou estudante análise e desenvolvimento de sistemas
-- Meu foco atualmente na minha especialização é na area de desenvolvimento mobile
+- 📱 Meu foco atual de especialização é na área de desenvolvimento mobile.
 - 📫 contate me pelo email: biancamacieira16@gmail.com
 - 😄 pronomes: ela/dela
 
