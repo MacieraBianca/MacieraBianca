@@ -1,5 +1,6 @@
 ## Olá eu sou a Bianca Macieira 
-- 🌱 Eu estou estudando análise e desenvolvimento de sistemas
+- 🌱 Eu sou estudante análise e desenvolvimento de sistemas
+- Meu foco atualmente na minha especialização é na area de desenvolvimento mobile
 - 📫 contate me pelo email: biancamacieira16@gmail.com
 - 😄 pronomes: ela/dela
 
