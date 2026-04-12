@@ -1,7 +1,7 @@
 ## Olá eu sou a Bianca Macieira 
 - 🌱 Eu estou estudando análise e desenvolvimento de sistemas
 - 📫 contate me pelo email: biancamacieira16@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 pronomes: ela/dela
 
 
 <div align="center">
